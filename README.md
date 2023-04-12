@@ -3,7 +3,7 @@
 
 ## Requirements
 
-Install [NodeJS](https://nodejs.org/en/) globally on your computer
+Install [Node](https://nodejs.org/en/) globally on your computer
 
 
 ## Getting Started
